@@ -14,6 +14,7 @@
   <br>
   <a href='https://dariant.github.io/publications/ID-Booth'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
   <a href='https://arxiv.org/abs/2504.07392'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
+  <a href='https://ieeexplore.ieee.org/document/11099217'><img src='https://img.shields.io/badge/Paper-FG_2025-yellow'></a>
   <a href='https://fg2025.ieee-biometrics.org/'><img src='https://img.shields.io/badge/Poster_at-FG_2025-maroon'></a>
   <a href='https://huggingface.co/spaces/DarianT/ID-Booth'><img src='https://img.shields.io/badge/HuggingFace-Demo-navy'></a>
   <br>
