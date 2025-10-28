@@ -127,11 +127,12 @@ To also evaluate the utility of the produced data, we also use it to train a dee
 If you use the code or results from this repository, please cite the ID-Booth paper:
 
 ```
-@article{tomasevic2025IDBooth,
+@inproceedings{tomasevic2025IDBooth,
   title={{ID-Booth}: Identity-consistent Face Generation with Diffusion Models},
   author={Toma{\v{s}}evi{\'c}, Darian and Boutros, Fadi and Lin, Chenhao and Damer, Naser and {\v{S}}truc, Vitomir and Peer, Peter},
-  journal={arXiv preprint arXiv:2504.07392},
-  year={2025}
+  booktitle={IEEE International Conference on Automatic Face and Gesture Recognition (FG)}, 
+  year={2025},
+  pages={1-10},
 }
 ```
 
